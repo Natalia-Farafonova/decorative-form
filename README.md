@@ -1,2 +1,1 @@
-# decorative-form
-декоративные настройки форм
+# tutorials-forms
